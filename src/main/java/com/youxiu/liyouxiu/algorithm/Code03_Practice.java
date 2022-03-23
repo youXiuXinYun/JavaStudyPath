@@ -20,7 +20,7 @@ public class Code03_Practice {
     }
 
 
-    //题目二: 一个数组中两种数出现了基数次其他数出现了偶数次如何找到这两种数? (a  / b)
+    //题目二: 一个数组中两种数出现了奇数次其他数出现了偶数次如何找到这两种数? (a  / b)
     public static void Code03_Practice02(int arr[]){
         int eor = 0;
         for (int i : arr) {
